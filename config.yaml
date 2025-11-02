@@ -1,0 +1,16 @@
+# config.yaml
+
+llm:
+  model_id: "microsoft/Phi-3-mini-4k-instruct"
+
+embedding:
+  model_name: "all-MiniLM-L6-v2"
+
+paths:
+  faiss_index: "faiss_index"
+  css_style: "assets/style.css"
+
+llm_params:
+  max_new_tokens: 512
+  temperature: 0.3
+  top_p: 0.9

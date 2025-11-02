@@ -1,0 +1,13 @@
+# Fichier de variables d'environnement
+.env
+
+# Dossier de l'index vectoriel
+faiss_index/
+
+# Fichiers de cache Python
+__pycache__/
+*.pyc
+
+# Dossier d'environnement virtuel (si vous en utilisez un)
+.venv/
+venv/

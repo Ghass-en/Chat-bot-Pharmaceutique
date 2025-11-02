@@ -1,0 +1,13 @@
+/* assets/style.css */
+
+/* Cache le header et le footer de Streamlit */
+#MainMenu, footer {
+    visibility: hidden;
+}
+
+/* Style pour les messages du chat */
+.st-emotion-cache-1f2d0bf {
+    border-radius: 10px;
+    padding: 12px;
+    margin-bottom: 10px;
+}

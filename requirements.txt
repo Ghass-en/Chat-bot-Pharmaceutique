@@ -1,0 +1,14 @@
+# requirements.txt (VERSION ULTIME ET FLEXIBLE)
+streamlit
+pandas
+torch
+langchain
+langchain-community
+langchain-core
+transformers
+accelerate
+sentence-transformers
+faiss-cpu
+python-dotenv
+PyYAML
+langchain-huggingface
