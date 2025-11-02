@@ -1,7 +1,9 @@
 📋 Description du Projet
+
 Un chatbot intelligent spécialisé dans l'analyse des interactions médicamenteuses, développé avec le modèle LLM Phi-3, optimisé par RAG (Retrieval-Augmented Generation) et déployé via Streamlit.
 
 🚀 Highlights
+
 Architecture multi-agents pour accélérer la découverte pharmaceutique
 
 Base de données de 10,000+ composés
@@ -36,8 +38,10 @@ pharma_env\Scripts\activate    # Windows
 # Installer les dépendances
 pip install -r requirements.txt
 🚀 Lancement
+
 streamlit run app.py
 📁 Structure du Projet
+
 
 🎯 Fonctionnalités
 
